@@ -27,7 +27,7 @@ AMProgressHUD is available through [CocoaPods](https://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'AMProgressHUD'
+pod 'AMProgressHUD', :git => 'https://github.com/qhu91it/AMProgressHUD.git'
 ```
 
 ## Author
